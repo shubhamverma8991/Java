@@ -1,3 +1,5 @@
+//Find the compound amount and compound interest on the principal Rs.20,000 borrowed at 6% compounded annually for 3 years.
+
 public class Q3 {
 
 	public static void main(String[] args) {
