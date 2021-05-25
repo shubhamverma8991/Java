@@ -1,3 +1,4 @@
+//A program to check entered number is Armstrong number or not.
 import java.util.Scanner;
 
 public class Q14 {
