@@ -1,3 +1,4 @@
+//A program to calculate power of a number.
 import java.util.Scanner;
 
 public class Q4 {
