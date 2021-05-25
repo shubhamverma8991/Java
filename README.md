@@ -1,2 +1,2 @@
 # Java
-All my Practice Java Codes are here
+My Practiced Java Codes are here
