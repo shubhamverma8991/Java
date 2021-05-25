@@ -1,3 +1,4 @@
+//program to adddition of two numbers also addition of two characters.
 import java.util.Scanner;
 
 public class Q2 {
