@@ -1,3 +1,5 @@
+//Sum of Series :
+// 1+2+3+.....+n
 import java.util.Scanner;
 
 public class Q9 {
