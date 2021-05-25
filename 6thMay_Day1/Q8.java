@@ -1,3 +1,4 @@
+//Check if Number is Prime Number or Not.
 import java.util.Scanner;
 
 public class Q8 {
