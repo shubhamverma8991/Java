@@ -1,3 +1,4 @@
+//Check Whether the number is Palindrome or not?
 import java.util.Scanner;
 
 public class Q_10 {
