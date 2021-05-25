@@ -1,3 +1,4 @@
+//A Program to find sum of all even and odd numbers between 1 to n.
 import java.util.Scanner;
 
 public class Q11 {
