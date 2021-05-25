@@ -1,3 +1,4 @@
+//A program to Print all Prime Numbers between 1 to n
 import java.util.Scanner;
 
 public class Q13 {
